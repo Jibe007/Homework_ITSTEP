@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Laptop",
+        "price": "1000.0 GEL",
+        "quantity": 10
+    },
+    {
+        "name": "Smartphone",
+        "price": "700.0 GEL",
+        "quantity": 25
+    },
+    {
+        "name": "Headphones",
+        "price": "150.0 GEL",
+        "quantity": 50
+    }
+]
