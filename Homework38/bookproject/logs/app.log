@@ -1,0 +1,27 @@
+INFO 2025-02-26 22:12:57,302 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:13:00,330 basehttp "GET / HTTP/1.1" 200 3228
+WARNING 2025-02-26 22:13:00,471 log Not Found: /favicon.ico
+WARNING 2025-02-26 22:13:00,471 basehttp "GET /favicon.ico HTTP/1.1" 404 4429
+INFO 2025-02-26 22:13:01,963 basehttp "GET /book/1/ HTTP/1.1" 200 1273
+INFO 2025-02-26 22:13:40,396 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-02-26 22:13:40,675 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:13:42,510 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:13:44,532 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-02-26 22:13:46,675 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:14:55,297 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-02-26 22:14:55,598 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:14:59,226 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:15:00,746 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+WARNING 2025-02-26 22:15:32,987 log Not Found: /book/update/
+WARNING 2025-02-26 22:15:32,987 basehttp "GET /book/update/ HTTP/1.1" 404 4432
+WARNING 2025-02-26 22:15:36,730 log Not Found: /book/update/1
+WARNING 2025-02-26 22:15:36,731 basehttp "GET /book/update/1 HTTP/1.1" 404 4437
+WARNING 2025-02-26 22:16:05,821 log Not Found: /admin
+WARNING 2025-02-26 22:16:05,822 basehttp "GET /admin HTTP/1.1" 404 4405
+INFO 2025-02-26 22:16:09,520 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:19:55,760 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-02-26 22:19:57,095 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:20:00,649 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-02-26 22:20:00,702 basehttp "GET /login/ HTTP/1.1" 200 2812
+INFO 2025-02-26 22:20:09,677 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-02-26 22:20:09,682 basehttp "GET / HTTP/1.1" 200 3228
