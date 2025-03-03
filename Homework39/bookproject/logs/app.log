@@ -1,0 +1,119 @@
+INFO 2025-02-26 22:12:57,302 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:13:00,330 basehttp "GET / HTTP/1.1" 200 3228
+WARNING 2025-02-26 22:13:00,471 log Not Found: /favicon.ico
+WARNING 2025-02-26 22:13:00,471 basehttp "GET /favicon.ico HTTP/1.1" 404 4429
+INFO 2025-02-26 22:13:01,963 basehttp "GET /book/1/ HTTP/1.1" 200 1273
+INFO 2025-02-26 22:13:40,396 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-02-26 22:13:40,675 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:13:42,510 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:13:44,532 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-02-26 22:13:46,675 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:14:55,297 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-02-26 22:14:55,598 autoreload Watching for file changes with StatReloader
+INFO 2025-02-26 22:14:59,226 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:15:00,746 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+WARNING 2025-02-26 22:15:32,987 log Not Found: /book/update/
+WARNING 2025-02-26 22:15:32,987 basehttp "GET /book/update/ HTTP/1.1" 404 4432
+WARNING 2025-02-26 22:15:36,730 log Not Found: /book/update/1
+WARNING 2025-02-26 22:15:36,731 basehttp "GET /book/update/1 HTTP/1.1" 404 4437
+WARNING 2025-02-26 22:16:05,821 log Not Found: /admin
+WARNING 2025-02-26 22:16:05,822 basehttp "GET /admin HTTP/1.1" 404 4405
+INFO 2025-02-26 22:16:09,520 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:19:55,760 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-02-26 22:19:57,095 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-02-26 22:20:00,649 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-02-26 22:20:00,702 basehttp "GET /login/ HTTP/1.1" 200 2812
+INFO 2025-02-26 22:20:09,677 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-02-26 22:20:09,682 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-03-03 21:31:26,584 autoreload Watching for file changes with StatReloader
+INFO 2025-03-03 21:31:28,018 basehttp "GET / HTTP/1.1" 200 3228
+WARNING 2025-03-03 21:31:28,208 log Not Found: /favicon.ico
+WARNING 2025-03-03 21:31:28,208 basehttp "GET /favicon.ico HTTP/1.1" 404 4429
+INFO 2025-03-03 21:31:29,733 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-03-03 21:31:31,876 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-03-03 21:31:45,096 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-03-03 21:31:46,955 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-03-03 21:31:49,820 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-03-03 21:31:49,922 basehttp "GET / HTTP/1.1" 200 3228
+INFO 2025-03-03 21:31:52,442 basehttp "GET /book/1/ HTTP/1.1" 200 1330
+INFO 2025-03-03 21:31:58,097 basehttp "GET /admin/auth/group/1/change/ HTTP/1.1" 200 13046
+INFO 2025-03-03 21:31:58,139 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:31:58,247 basehttp - Broken pipe from ('127.0.0.1', 52404)
+INFO 2025-03-03 21:31:58,254 basehttp - Broken pipe from ('127.0.0.1', 52403)
+INFO 2025-03-03 21:31:58,260 basehttp - Broken pipe from ('127.0.0.1', 52402)
+INFO 2025-03-03 21:31:58,265 basehttp - Broken pipe from ('127.0.0.1', 52397)
+INFO 2025-03-03 21:31:58,293 basehttp - Broken pipe from ('127.0.0.1', 52398)
+INFO 2025-03-03 21:31:58,306 basehttp - Broken pipe from ('127.0.0.1', 52405)
+INFO 2025-03-03 21:32:04,292 basehttp "GET /admin/auth/group/1/change/ HTTP/1.1" 200 13046
+INFO 2025-03-03 21:32:04,306 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2025-03-03 21:32:04,313 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2025-03-03 21:32:04,314 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-03-03 21:32:04,315 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-03-03 21:32:04,316 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2025-03-03 21:32:04,317 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+INFO 2025-03-03 21:32:04,329 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-03-03 21:32:04,331 basehttp "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-03-03 21:32:04,332 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-03-03 21:32:04,332 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-03-03 21:32:04,334 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2025-03-03 21:32:04,336 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2025-03-03 21:32:04,345 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-03-03 21:32:04,346 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-03-03 21:32:04,346 basehttp "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15502
+INFO 2025-03-03 21:32:04,347 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-03-03 21:32:04,352 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:32:04,359 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-03-03 21:32:04,380 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-03-03 21:32:04,395 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-03-03 21:32:04,407 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-03-03 21:32:04,438 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-03-03 21:32:04,487 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-03-03 21:32:04,487 basehttp "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2025-03-03 21:32:04,487 basehttp "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2025-03-03 21:32:04,487 basehttp "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2025-03-03 21:32:08,670 basehttp "GET /admin/books/book/add/ HTTP/1.1" 200 13422
+INFO 2025-03-03 21:32:08,686 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:32:08,700 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-03-03 21:32:08,703 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-03-03 21:32:08,708 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-03-03 21:32:08,712 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-03-03 21:32:08,736 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-03-03 21:33:03,327 basehttp "POST /admin/books/book/add/ HTTP/1.1" 302 0
+INFO 2025-03-03 21:33:03,374 basehttp "GET /admin/books/book/ HTTP/1.1" 200 11379
+INFO 2025-03-03 21:33:03,392 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:33:03,392 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-03-03 21:33:03,402 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-03-03 21:33:03,410 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-03-03 21:33:03,410 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-03-03 21:33:08,025 basehttp "GET / HTTP/1.1" 200 3903
+INFO 2025-03-03 21:33:08,053 basehttp "GET /book_covers/sample.jpg HTTP/1.1" 200 34256
+INFO 2025-03-03 21:33:50,630 autoreload Watching for file changes with StatReloader
+INFO 2025-03-03 21:33:55,245 basehttp "GET / HTTP/1.1" 200 4121
+INFO 2025-03-03 21:33:55,259 basehttp "GET /book_covers/sample.jpg HTTP/1.1" 304 0
+INFO 2025-03-03 21:34:02,528 basehttp "GET /admin/books/book/add/ HTTP/1.1" 200 13422
+INFO 2025-03-03 21:34:02,542 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:35:28,726 basehttp "POST /admin/books/book/add/ HTTP/1.1" 200 13792
+INFO 2025-03-03 21:35:28,739 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:35:52,457 basehttp "POST /admin/books/book/add/ HTTP/1.1" 302 0
+INFO 2025-03-03 21:35:52,465 basehttp "GET /admin/books/book/add/ HTTP/1.1" 200 13654
+INFO 2025-03-03 21:35:52,480 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:36:27,504 basehttp "POST /admin/books/book/add/ HTTP/1.1" 302 0
+INFO 2025-03-03 21:36:27,513 basehttp "GET /admin/books/book/add/ HTTP/1.1" 200 13655
+INFO 2025-03-03 21:36:27,526 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:36:59,710 basehttp "POST /admin/books/book/add/ HTTP/1.1" 200 13737
+INFO 2025-03-03 21:36:59,724 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:37:07,515 basehttp "POST /admin/books/book/add/ HTTP/1.1" 200 13652
+INFO 2025-03-03 21:37:07,528 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-03-03 21:37:15,383 basehttp "GET / HTTP/1.1" 200 5554
+INFO 2025-03-03 21:37:15,404 basehttp "GET /book_covers/sample.jpg HTTP/1.1" 304 0
+INFO 2025-03-03 21:37:15,462 basehttp "GET /book_covers/Book-cover-page-3-CRC.webp HTTP/1.1" 200 15012
+INFO 2025-03-03 21:37:15,467 basehttp "GET /book_covers/business-book-cover-design-template-e8b0585ed1cce8c483170582c0f9f3ff_screen.jpg HTTP/1.1" 200 56134
+INFO 2025-03-03 21:39:02,606 autoreload Watching for file changes with StatReloader
+INFO 2025-03-03 21:41:09,985 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-03-03 21:41:10,260 autoreload Watching for file changes with StatReloader
+INFO 2025-03-03 21:41:58,303 autoreload C:\Users\GComp.ge\Desktop\django\bookproject\books\views.py changed, reloading.
+INFO 2025-03-03 21:41:58,596 autoreload Watching for file changes with StatReloader
+INFO 2025-03-03 21:42:08,358 basehttp "GET / HTTP/1.1" 200 5554
+INFO 2025-03-03 21:42:08,375 basehttp "GET /book_covers/sample.jpg HTTP/1.1" 304 0
+INFO 2025-03-03 21:42:08,375 basehttp "GET /book_covers/Book-cover-page-3-CRC.webp HTTP/1.1" 304 0
+INFO 2025-03-03 21:42:08,376 basehttp "GET /book_covers/business-book-cover-design-template-e8b0585ed1cce8c483170582c0f9f3ff_screen.jpg HTTP/1.1" 304 0
